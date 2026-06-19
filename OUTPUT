@@ -1,0 +1,32 @@
+OUTPUT
+SAMPLE DATA
+| Metric        | Value        |
+| ------------- | ------------ |
+| Total Orders  | 25,000       |
+| Customers     | 8,200        |
+| Products      | 150          |
+| Total Revenue | ₹1,24,50,000 |
+MONTHLY REVENEW
+| Month    | Revenue (₹) |
+| -------- | ----------- |
+| January  | 8,50,000    |
+| February | 9,10,000    |
+| March    | 10,80,000   |
+| April    | 11,75,000   |
+| May      | 13,20,000   |
+| June     | 14,50,000   |
+TOP 5 PRODUCT
+| Product           | Units Sold |
+| ----------------- | ---------- |
+| Wireless Earbuds  | 2,150      |
+| Smart Watch       | 1,980      |
+| Bluetooth Speaker | 1,750      |
+| Power Bank        | 1,630      |
+| USB Cable         | 1,420      |
+SALES TREND
+Jan  ███████
+Feb  ████████
+Mar  ██████████
+Apr  ███████████
+May  █████████████
+Jun  ███████████████
